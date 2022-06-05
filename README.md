@@ -1,2 +1,2 @@
 # sentiment-classification
-Implemtation of a model that classifies sentiments
+Implementation of a model that classifies feelings
